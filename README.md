@@ -1,4 +1,4 @@
-Hi, I am Sabyasachi and it's a pleasure to have you here. Here is a list of data science projects I have done.  
+Hi, I am Sabyasachi and it's a pleasure to have you here. Here is a list of older data science projects I have done.  
 
 
 # Machine Learning
@@ -14,8 +14,6 @@ Hi, I am Sabyasachi and it's a pleasure to have you here. Here is a list of data
 # Data Visualisation  
 1. Weather in London: https://github.com/sabyasachi-mukherjee/weather  
    Key words: pandas, Seaborn
-
-
 
 
 
