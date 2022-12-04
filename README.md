@@ -1,4 +1,13 @@
-Hi, I am Sabyasachi and it's a pleasure to have you here. Here is a list of older data science projects I have done.  
+Hi, I am Sabyasachi and it's a pleasure to have you here. 
+
+# This is new work! 
+
+1. Spotify Dataset: I look at a Spotify tracks database, and try to analysis which factors are clear indicators of popularity of a track. 
+I deal with tracks released in or after 2012. Here is the link: https://github.com/sabyasachi-mukherjee/spotify-tracks-project.
+
+
+
+Here is a list of older data science projects I have done.  
 
 
 # Machine Learning
