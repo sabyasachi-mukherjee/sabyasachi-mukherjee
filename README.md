@@ -10,7 +10,7 @@ I deal with tracks released in or after 2012. Here is the link: https://github.c
 Here is a list of older data science projects I have done.  
 
 
-# Machine Learning
+### Machine Learning
 1. California Housing Dataset (1990): https://github.com/sabyasachi-mukherjee/housing  
    Key words: pandas, Sklearn pipeline, Linear Regressor, Random Forest Regressor and Decision Tree Regressor, RMSE, Cross-validation
 
@@ -20,9 +20,6 @@ Here is a list of older data science projects I have done.
    One Vs Rest Classifier
 
 
-# Data Visualisation  
-1. Weather in London: https://github.com/sabyasachi-mukherjee/weather  
-   Key words: pandas, Seaborn
 
 
 
