@@ -7,7 +7,7 @@ I deal with tracks released in or after 2012. Here is the link: https://github.c
 
 
 
-Here is a list of older data science projects I have done.  
+Here is a list of OLDER data science projects I have done.  
 
 
 ### Machine Learning
