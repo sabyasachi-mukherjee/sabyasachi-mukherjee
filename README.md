@@ -5,6 +5,8 @@ Hi, I am Sabyasachi and it's a pleasure to have you here.
 1. Spotify Dataset: I look at a Spotify tracks database, and try to analysis which factors are clear indicators of popularity of a track. 
 I deal with tracks released in or after 2012. Here is the link: https://github.com/sabyasachi-mukherjee/spotify-tracks-project.
 
+2. Here is my attempt at building a blog based on Django. Link: https://github.com/sabyasachi-mukherjee/django_blog (see README.md of the project for more info).
+
 
 
 Here is a list of OLDER data science projects I have done.  
