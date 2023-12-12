@@ -1,23 +1,14 @@
 Hi, I am Sabyasachi and it's a pleasure to have you here. 
 
-# This is new work! 
+### This is some ML-related work! 
 
 1. Spotify Dataset: I look at a Spotify tracks database, and try to analysis which factors are clear indicators of popularity of a track. 
-I deal with tracks released in or after 2012. Here is the link: https://github.com/sabyasachi-mukherjee/spotify-tracks-project.
+   I deal with tracks released in or after 2012. Here is the link: https://github.com/sabyasachi-mukherjee/spotify-tracks-project.
 
-2. Here is my attempt at building a blog based on Django. Link: https://github.com/sabyasachi-mukherjee/django_blog (see README.md of the project for more info).
-
-
-
-# Here is a list of OLDER data science projects I have done.  
-
-
-### Machine Learning
-1. California Housing Dataset (1990): https://github.com/sabyasachi-mukherjee/housing  
+2. California Housing Dataset (1990): https://github.com/sabyasachi-mukherjee/housing  
    Key words: pandas, Sklearn pipeline, Linear Regressor, Random Forest Regressor and Decision Tree Regressor, RMSE, Cross-validation
 
-
-2. MNIST Dataset of handwritten integers: https://github.com/sabyasachi-mukherjee/mnist  
+3. MNIST Dataset of handwritten integers: https://github.com/sabyasachi-mukherjee/mnist  
    Key Words: pandas, Principal Component Analysis (PCA) and IPCA, Support Vector Machines, Random Forest Classifier. Stochastic Gradient Descent, 
    One Vs Rest Classifier
 
